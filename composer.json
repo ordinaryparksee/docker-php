@@ -1,5 +1,5 @@
 {
-    "name": "docker-php/docker-php",
+    "name": "ordinaryparksee/docker-php",
     "license": "MIT",
     "type": "library",
     "description": "A Docker PHP client",
@@ -15,7 +15,7 @@
     },
     "require": {
         "php": ">=7.1",
-        "docker-php/docker-php-api": "4.1.*",
+        "ordinaryparksee/docker-php-api": "4.1.*",
         "guzzlehttp/psr7": "^1.2",
         "php-http/client-common": "^1.6",
         "php-http/socket-client": "^1.3",
